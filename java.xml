@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/PDF-Reader-App-main/PDF FILE/QuickPdfReader-master/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/PDF-Reader-App-main/PDF FILE/QuickPdfReader-master/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/PDF-Reader-App-main/PDF FILE/QuickPdfReader-master/app/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
